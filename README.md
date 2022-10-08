@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sateesh-akula
 - 👀 I’m interested in AI Technology | Machine Learning | Python | Data Analytics
-- 🌱 I’m currently learning Cloud Technology | ML | AI
+- 🌱 I’m currently learning Cloud Technology | fast.ai
 - 💞️ I’m looking to collaborate on Machine Learning projects | Research on ML | Analytics
 - 📫 How to reach me ... LinkedIn: [sateesh-akula](https://www.linkedin.com/in/sateesh-akula/)
 
