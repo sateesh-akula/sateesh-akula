@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sateesh-akula
-- 👀 I’m interested in AI/Machine Learning | Cloud | Analytics
-- 🌱 I’m currently learning Cloud Technology | NLP | Azure ML
+- 👀 I’m interested in AI | Cloud | Analytics
+- 🌱 I’m currently learning new Cloud Technology
 - 💞️ I’m looking to collaborate on Machine Learning projects | Research on ML | Analytics
 - 📫 How to reach me ... LinkedIn: [sateesh-akula](https://www.linkedin.com/in/sateesh-akula/)
 
